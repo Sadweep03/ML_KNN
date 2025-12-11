@@ -1,0 +1,21 @@
+MACHINE LEARNING LECTURE 
+K-Nearest Neighbors (KNN) is one of the simplest and most intuitive classification algorithms in 
+machine learning. Despite its simplicity, KNN provides powerful insights into how models partition 
+feature space and how the choice of hyperparameters—especially the number of neighbors, k—affects 
+predictive performance. 
+
+DATASET
+A synthetic supervised learning dataset is created to provide complete control over noise 
+levels and sample size. The training set is intentionally kept small to highlight the 
+interpolation regime, where models fit limited data exactly but may generalize unpredictably.
+
+ACCESSIBILITY 
+I use high-contrast, colour-blind–safe palettes in all plots, paired with clear axis labels 
+and readable annotations. Tables present numerical values directly, avoiding any dependence on
+colour to convey meaning. The tutorial is organised with consistent, well-structured headings to 
+ensure smooth navigation for screen-reader users.
+
+License
+
+This repository is released under the MIT License. It may be used,
+modified, and redistributed with appropriate attribution.
